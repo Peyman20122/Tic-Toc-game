@@ -63,6 +63,6 @@ cd tic-tac-toe
 This project is licensed under the **MIT License**. Feel free to use and modify it! 🚀
 
 ---
-📌 **Author:** Peiman Daii Rezaei  
+📌 **Author:** Peiman Daei Rezaei  
 📅 **Release Date:** March 2025
 
